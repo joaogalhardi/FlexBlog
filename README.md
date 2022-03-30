@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="" alt="Flexblog">
+  <img src="./video/flexblog.gif" alt="Flexblog">
 </div>
 
 <hr />
