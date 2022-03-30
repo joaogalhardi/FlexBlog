@@ -17,7 +17,7 @@
 <hr />
 
 ## Deploy:
-Click [here](https://joaogalhardi.github.io/Wildbeast/) for try the aplication.
+Click [here](https://joaogalhardi.github.io/FlexBlog/) for try the aplication.
 
 ## Technologies:
 
